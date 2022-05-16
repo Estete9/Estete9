@@ -1,4 +1,4 @@
-#### Hello! I'm Esteban - aka [NaughT][linkedin] 👋
+#### Hello! I'm Esteban - aka [Estete9][linkedin] 👋
 
 ## I'm a Student, Gamer, Developer, and English Teacher!
 
