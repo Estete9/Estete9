@@ -1,7 +1,6 @@
-#### Hello! I'm Esteban - aka [NaughT][linkedin] 👋 
+#### Hello! I'm Esteban - aka [NaughT][linkedin] 👋
 
 ## I'm a Student, Gamer, Developer, and English Teacher!
-
 
 - :cowboy_hat_face: Check out my Github page: [Saving the World One App at a Time!][github]
 - 🌱 Learning all and everything
@@ -11,10 +10,10 @@
 
 ### Check some of my favorite projects I have worked on:
 
-- :man_cook: [Vegan for days: recipes.][github_vegan]  MVVM pattern, REST API source and Room database libraries, and AGILE with SCRUM project management
-- :game_die: [Lintu: Boardgames and Cafe: catalogue.][github_lintu] Clean Architecture with MVVM, REST API source, OAuth 2.0, Jetpack Compose 
+- :man_cook: [Vegan for days: recipes.][github_vegan] MVVM pattern, REST API source and Room database libraries, and AGILE with SCRUM project management
+- :game_die: [Lintu: Boardgames and Cafe: catalogue.][github_lintu] Clean Architecture with MVVM, REST API source, OAuth 2.0, Jetpack Compose
 - :open_umbrella: [Blu: Weather app.][github_blu] REST API, Fragments, Recyclerview, MVVM
-- :video_game: [Mineswepper.][github_mine] One of the first complete projects done with Jetbrains Academy for Kotlin
+- :video_game: [Minesweepper.][github_mine] One of the first complete projects done with Jetbrains Academy for Kotlin
 - :robot: [ASCII: name tag generator.][github_ascii] General programming logic and problem solving.
 
 <br />
@@ -59,3 +58,4 @@
 [github_lintu]: https://github.com/Estete9/LintuBG
 [github_blu]: https://github.com/Estete9/Blu-Weather-App
 [github_ascii]: https://github.com/Estete9/ASCII-Art-tag
+[github_mine]: https://github.com/Estete9/minesweeper
