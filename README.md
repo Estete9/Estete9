@@ -2,21 +2,19 @@
 
 ## I'm a Student, Gamer, Developer, and English Teacher!
 
-In my short life I've been a Designer, an Ad Man, an English teacher, and a Service Manager. Working and studying. However it's been 4 years now that I have pushed myself into learning programming.<br>
-
-Since the beginning I focused in creating projects so currently I'm working on the Android Codelabs so I can fill up some gaps in my knowledge. I am also learning Web Dev, and planning into learning Data Analysis.<br>
-
-In this time I learned to create Android apps with Kotlin with MVVM patterns and Clean Architecture. I learned to use tools such as Git and Github, Retrofit, Room, Postman, Paginating 3, OAuth 2.0, Agile with Scrum.<br>
-
-it's still a long road ahead, but I couldn't be more excited. :star_struck: :grey_exclamation:
-
-<br/>
-
 - :cowboy_hat_face: Check out my Github page: [Saving the World One App at a Time!][github]
-- 🌱 Learning all and everything
+- 🌱 Learning all and everything but mostly Android Dev
 - 👯 I’m looking to collaborate with Open Source projects
 - 🥅 2022 Goals: Live the life of an Android Dev
 - ⚡ Let's Dance: I recently found love for dancing Salsa and Bachata
+
+<br/>
+
+In my short life I've been a Designer, an Ad Man, an English teacher, and a Service Manager. Working and studying. However it's been 4 years now that I have pushed myself into learning programming.<br>
+
+In this time I learned to create Android apps with Kotlin with MVVM patterns and Clean Architecture. I learned to use tools such as Git and Github, Retrofit, Room, Postman, Paginating 3, OAuth 2.0, Agile with Scrum, and currently Web Dev.<br>
+
+it's still a long road ahead, but I couldn't be more excited. :star_struck: :grey_exclamation:
 
 ### Check some of my favorite projects I have worked on:
 
