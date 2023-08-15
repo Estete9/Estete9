@@ -1,28 +1,28 @@
-#### Hello! I'm Esteban - aka [Estete9][linkedin] 👋
+#### I'm a Student, a Gamer, a Developer, an English Teacher, and [Estete9][linkedin] 👋
 
-## I'm a Student, Gamer, Developer, and English Teacher!
+## Hello! I'm Esteban, I'm a Full Stack and Andriod Developer 
 
-- :cowboy_hat_face: Check out my Github page: [Saving the World One App at a Time!][github]
-- 🌱 Learning all and everything but mostly Android Dev
+- :cowboy_hat_face: Check out my GitHub page: [Changing the world one App at a Time!][github]
+- 🌱 Learning all and everything but mostly Full Stack Dev
 - 👯 I’m looking to collaborate with Open Source projects
-- 🥅 2022 Goals: Live the life of an Android Dev
-- ⚡ Let's Dance: I recently found love for dancing Salsa and Bachata
+- 🥅 2023 Goals: Join a business that is more a community than a company
+- ⚡ Let's Dance: I recently found a love for dancing
 
 <br/>
 
-In my short life I've been a Designer, an Ad Man, an English teacher, and a Service Manager. Working and studying. However it's been 4 years now that I have pushed myself into learning programming.<br>
+I've been a Designer, Ad Man, English teacher, and Service Manager in my short life. Working and studying. However, it's been 4 years now (and counting) that I have pushed myself into learning programming.<br>
 
-In this time I learned to create Android apps with Kotlin with MVVM patterns and Clean Architecture. I learned to use tools such as Git and Github, Retrofit, Room, Postman, Paginating 3, OAuth 2.0, Agile with Scrum, and currently Web Dev.<br>
+I learned to create Android apps with Kotlin with MVVM patterns and Clean Architecture during this time. I learned to use tools such as Git and Github, Retrofit, Room, Postman, Paginating 3, OAuth 2.0, Agile with Scrum, and currently Web Dev.<br>
 
 it's still a long road ahead, but I couldn't be more excited. :star_struck: :grey_exclamation:
 
 ### Check some of my favorite projects I have worked on:
 
 - :man_cook: [Vegan for days: recipes.][github_vegan] MVVM pattern, REST API source and Room database libraries, and AGILE with SCRUM project management
-- :game_die: [Lintu: Boardgames and Cafe: catalogue.][github_lintu] Clean Architecture with MVVM, REST API source, OAuth 2.0, Jetpack Compose
-- :open_umbrella: [Blu: Weather app.][github_blu] REST API, Fragments, Recyclerview, MVVM
-- :video_game: [Minesweepper.][github_mine] One of the first complete projects done with Jetbrains Academy for Kotlin
-- :robot: [ASCII: name tag generator.][github_ascii] General programming logic and problem solving.
+- :game_die: [Lintu: Boardgames and Cafe: catalog.][github_lintu] Clean Architecture with MVVM, REST API source, OAuth 2.0, Jetpack Compose
+- :open_umbrella: [Blu: Weather app.][github_blu] REST API, Fragments, recyclerview, MVVM
+- :video_game: [Minesweepper.][github_mine] One of the first complete projects done with JetBrains Academy for Kotlin
+- :robot: [ASCII: name tag generator.][github_ascii] General programming logic and problem-solving.
 
 <br />
 
