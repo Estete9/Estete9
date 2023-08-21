@@ -18,6 +18,10 @@ it's still a long road ahead, but I couldn't be more excited. :star_struck: :gre
 
 ### Check some of my favorite projects I have worked on:
 
+- :white_check_mark: [TodoList - Minimalist Task list][gihub_todo] Single Page Website that stores tasks internally and populates the UI dynamically, using Webpack, SASS, local storage, and more.
+- :page_facing_up: [Solid foundation - Webpack and libraries template] A template project to clone and to use in your next project, this includes ESLINT, STYLELINT - WEBPACK - WEBPACK HTML PLUGIN - SASS - GH-PAGES, entre otros
+- :art: [Ili Artes - Arts and Crafts][github_iliartes] The capstone project from Module one on Microverse. Focused on reactive design, mobile menu functionality and navigation, This page is the first steps into a real project for a real artisan.
+- :briefcase: [Full Stack Portfolio - Personal portfolio][github_portfolio] Personal Project where I can display all my new projects and their features. Dynamic population of projects, Reactve design for mobile and desktop
 - :man_cook: [Vegan for days: recipes.][github_vegan] MVVM pattern, REST API source and Room database libraries, and AGILE with SCRUM project management
 - :game_die: [Lintu: Boardgames and Cafe: catalog.][github_lintu] Clean Architecture with MVVM, REST API source, OAuth 2.0, Jetpack Compose
 - :open_umbrella: [Blu: Weather app.][github_blu] REST API, Fragments, recyclerview, MVVM
@@ -64,6 +68,9 @@ it's still a long road ahead, but I couldn't be more excited. :star_struck: :gre
 [github]: https://github.com/Estete9/
 [github_vegan]: https://github.com/Estete9/Vegan-for-days
 [github_lintu]: https://github.com/Estete9/LintuBG
+[github_iliartes]: https://github.com/Estete9/IliArtes
 [github_blu]: https://github.com/Estete9/Blu-Weather-App
+[github_portfolio]: https://github.com/Estete9/Fullstack-Portfolio
+[github_todo]: https://github.com/Estete9/TodoList
 [github_ascii]: https://github.com/Estete9/ASCII-Art-tag
 [github_mine]: https://github.com/Estete9/minesweeper
