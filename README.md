@@ -16,6 +16,8 @@ I learned to create Android apps with Kotlin with MVVM patterns and Clean Archit
 
 it's still a long road ahead, but I couldn't be more excited. :star_struck: :grey_exclamation:
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Check some of my favorite projects I have worked on:
 
 - :white_check_mark: [TodoList - Minimalist Task list][github_todolist] Single Page Website that stores tasks internally and populates the UI dynamically, using Webpack, SASS, local storage, and more.
