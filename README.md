@@ -89,7 +89,7 @@ it's still a long road ahead, but I couldn't be more excited. 🤩❕
 
 <br />
 
-### ☎️ Let's connect! ☎️:
+### ☎️ Let's connect! ☎️
 
 [![website](./img/twitter-light.svg)](https://twitter.com/NaughTban#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/NaughTban#gh-dark-mode-only)
