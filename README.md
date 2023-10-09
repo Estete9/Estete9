@@ -1,4 +1,4 @@
-#### I'm a Student, a Gamer, a Developer, an English Teacher, and [Estete9 - LinkedIn][linkedin] 👋
+Student, Gamer, Developer, English Teacher, [Estete9 - LinkedIn][linkedin] 👋
 
 ## Hello! I'm Esteban :bowtie: <br> I will be your new Full Stack and Android Developer. 
 
