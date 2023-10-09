@@ -11,10 +11,9 @@ Student, Gamer, Developer, English Teacher, [Estete9 - LinkedIn][linkedin] 👋
 I've been a Designer, Ad Man, English teacher, and a Service Manager. Working and studying, it's been 4 years now (and counting) that I have pushed myself into learning and crushing it.
 
 <br/>
-
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Estete9?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<p align="left"> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Estete9?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 <img src="https://img.shields.io/twitter/follow/NaughTeban?logo=twitter&style=for-the-badge" alt="Estete9" />
-<img src="https://myreadme.vercel.app/api/embed/Estete9?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/Estete9?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 
 <br>
 
