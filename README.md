@@ -39,6 +39,7 @@ it's still a long road ahead, but I couldn't be more excited. 🤩❕
 - 📖 [The Bookstore - Book reading list][github_bookstore] Single page that uses Redux to maintain state and Redux Thunk to call for async functions
 
 - ✅ [TodoList - Minimalist Task list][github_todolist] Single Page Website that stores tasks internally and populates the UI dynamically, using Webpack, SASS, local storage, and more.
+
 - 📄 [Solid foundation - Webpack and libraries template][github_webpack] A template project to clone and to use in your next project, this includes ESLINT, STYLELINT - WEBPACK - WEBPACK HTML PLUGIN - SASS - GH-PAGES, entre otros
 - 🎨 [Ili Artes - Arts and Crafts][github_iliartes] The capstone project from Module one on Microverse. Focused on reactive design, mobile menu functionality, and navigation, This page is the first step into a real project for a real artisan.
 - 💼 [Full Stack Portfolio - Personal portfolio][github_portfolio] Personal Project where I can display all my new projects and their features. The dynamic population of projects, Reactve design for mobile and desktop
@@ -87,7 +88,7 @@ it's still a long road ahead, but I couldn't be more excited. 🤩❕
 
 <br />
 
-### ☎️ Let's connect! ☎️:
+### ☎️ Let's connect! ☎️
 
 [![website](./img/twitter-light.svg)](https://twitter.com/NaughTban#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/NaughTban#gh-dark-mode-only)
