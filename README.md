@@ -3,7 +3,7 @@ Student, Gamer, Developer, English Teacher, [Estete9 - LinkedIn][linkedin] 👋
 ## Hello! I'm Esteban :bowtie: <br> I will be your new Full Stack and Android Developer.
 
 - 🤠 Check out my GitHub page: [Changing the world one App at a Time!][github]
-- 🥅 2023 Goals: Join and be part of an amazing group of people who are more a community than a company.
+- 🥅 2023-2024 Goals: Join and be part of an amazing group of people who are more a community than a company.
 - 🌱 Learning all and everything but mostly Full Stack Dev
 - 👯 I’m looking to collaborate with Open Source projects
 - ⚡ Let's Dance: I recently found a love for dancing
