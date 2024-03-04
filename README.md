@@ -6,7 +6,7 @@ Student, Gamer, Developer, English Teacher, [Estete9 - LinkedIn][linkedin] 👋
 - 🥅 2023-2024 Goals: Join and be part of an amazing group of people who are more a community than a company.
 - 🌱 Learning all and everything but mostly Full Stack Dev
 - 👯 I’m looking to collaborate with Open Source projects
-- ⚡ Let's Dance: I recently found a love for dancing
+- ⚡ Let's Dance: My recently found a love for dancing helps with my motivation
 
 I've been a Designer, Ad Man, English teacher, and a Service Manager. Working and studying, it's been 4 years now (and counting) that I have pushed myself into learning and crushing it.
 
