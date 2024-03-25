@@ -35,6 +35,7 @@ it's still a long road ahead, but I couldn't be more excited. 🤩❕
 
 ### Full Stack:
 
+- 🚙 [BookCar Rental - Car rental application][github_bookcar] Two-part application structured with a frontend-backend separation. Provides a seamless and user-friendly platform for users to view and reserve cars for rides. Built with React for the Frontend and with a Rails API for the backend.
 - 📖 [The Bookstore - Book reading list][github_bookstore] Single page that uses Redux to maintain state and Redux Thunk to call for async functions
 
 - ✅ [TodoList - Minimalist Task list][github_todolist] Single Page Website that stores tasks internally and populates the UI dynamically, using Webpack, SASS, local storage, and more.
@@ -102,7 +103,7 @@ it's still a long road ahead, but I couldn't be more excited. 🤩❕
 <br />
 
 ---
-
+[github_bookcar]: https://github.com/fmanimashaun/book-car
 [github_bookstore]: https://github.com/Estete9/bookstore-react
 [twitter]: https://twitter.com/NaughTban/
 [linkedin]: https://www.linkedin.com/in/esteban-palacios-5030a772/
